@@ -1,4 +1,3 @@
-# 💫 About Me:
 <h1 align="center">Hi 👋, I'm Satyam Kumar</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
@@ -39,4 +38,3 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-![Snake animation](https://github.com/Satyambhardwaj59/Satyambhardwaj59/blob/output/github-contribution-grid-snake.svg)
